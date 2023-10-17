@@ -14,6 +14,9 @@ import { AnswerComponent } from './quiz/answer/answer.component';
 import { FormsModule, ReactiveFormsModule } from "@angular/forms";
 import { LoginComponent } from './auth/login/login.component';
 import { RegisterComponent } from './auth/register/register.component';
+import { CategorieComponent } from './categorie/categorie/categorie.component';
+import { SearchInputComponent } from './categorie/search-input/search-input.component';
+import { CategoriesBoxComponent } from './categorie/categories-box/categories-box.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +29,10 @@ import { RegisterComponent } from './auth/register/register.component';
     QuestionComponent,
     AnswerComponent,
     LoginComponent,
-    RegisterComponent
+    RegisterComponent,
+    CategorieComponent,
+    SearchInputComponent,
+    CategoriesBoxComponent
   ],
   imports: [
     BrowserModule,
