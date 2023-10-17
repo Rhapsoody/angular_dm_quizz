@@ -2,268 +2,268 @@
   "questions": [
     {
       "id": 1,
-      "label": "Quel est le principal avantage des composants dans Angular ?",
+      "questionLabel": "Quel est le principal avantage des composants dans Angular ?",
       "categoryId": 1
     },
     {
       "id": 2,
-      "label": "Quel est le principal avantage des composants dans Angular ?"
+      "questionLabel": "Quel est le principal avantage des composants dans Angular ?"
     },
     {
       "id": 3,
-      "label": "Quel est le principal avantage des composants dans Angular ?"
+      "questionLabel": "Quel est le principal avantage des composants dans Angular ?"
     },
     {
       "id": 4,
-      "label": "Quel est le principal avantage des composants dans Angular ?"
+      "questionLabel": "Quel est le principal avantage des composants dans Angular ?"
     },
     {
       "id": 5,
-      "label": "Quel est le principal avantage des composants dans Angular ?"
+      "questionLabel": "Quel est le principal avantage des composants dans Angular ?"
     },
     {
       "id": 6,
-      "label": "Quel est le principal avantage des composants dans Angular ?"
+      "questionLabel": "Quel est le principal avantage des composants dans Angular ?"
     },
     {
       "id": 7,
-      "label": "Quel est le principal avantage des composants dans Angular ?"
+      "questionLabel": "Quel est le principal avantage des composants dans Angular ?"
     },
     {
       "id": 8,
-      "label": "Quel est le principal avantage des composants dans Angular ?"
+      "questionLabel": "Quel est le principal avantage des composants dans Angular ?"
     },
     {
       "id": 9,
-      "label": "Quel est le principal avantage des composants dans Angular ?"
+      "questionLabel": "Quel est le principal avantage des composants dans Angular ?"
 
     },
     {
       "id": 10,
-      "label": "Quel est le principal avantage des composants dans Angular ?"
+      "questionLabel": "Quel est le principal avantage des composants dans Angular ?"
     }
   ],
   "answers": [
     {
       "id": 1,
-      "label": "Accélérer le temps de chargement de la page",
-      "correct": false,
+      "answerLabel": "Accélérer le temps de chargement de la page",
+      "isCorrect": false,
       "questionId": 1
     },
     {
       "id": 2,
-      "label": "Encapsulation et réutilisabilité du code",
-      "correct": true,
+      "answerLabel": "Encapsulation et réutilisabilité du code",
+      "isCorrect": true,
       "questionId": 1
     },
     {
       "id": 3,
-      "label": "Facilité de déploiement",
-      "correct": false,
+      "answerLabel": "Facilité de déploiement",
+      "isCorrect": false,
       "questionId": 1
     },
     {
       "id": 4,
-      "label": "Optimisation du SEO",
-      "correct": false,
+      "answerLabel": "Optimisation du SEO",
+      "isCorrect": false,
       "questionId": 1
     },
     {
       "id": 5,
-      "label": "Accélérer le temps de chargement de la page ",
-      "correct": false,
+      "answerLabel": "Accélérer le temps de chargement de la page ",
+      "isCorrect": false,
       "questionId" : 2
     },
     {
       "id": 6,
-      "label": "Encapsulation et réutilisabilité du code ",
-      "correct": true,
+      "answerLabel": "Encapsulation et réutilisabilité du code ",
+      "isCorrect": true,
       "questionId": 2
     },
     {
       "id": 7,
-      "label": "Autre chose",
-      "correct": false,
+      "answerLabel": "Autre chose",
+      "isCorrect": false,
       "questionId": 2
     },
     {
       "id": 8,
-      "label": "Facilité de déploiement ",
-      "correct": false,
+      "answerLabel": "Facilité de déploiement ",
+      "isCorrect": false,
       "questionId": 2
     },
     {
       "id": 9,
-      "label": "Optimisation du SEO ",
-      "correct": false,
+      "answerLabel": "Optimisation du SEO ",
+      "isCorrect": false,
       "questionId": 3
     },
     {
       "id": 10,
-      "label": "Accélérer le temps de chargement de la page ",
-      "correct": false,
+      "answerLabel": "Accélérer le temps de chargement de la page ",
+      "isCorrect": false,
       "questionId" : 3
     },
     {
       "id": 11,
-      "label": "Encapsulation et réutilisabilité du code ",
-      "correct": true,
+      "answerLabel": "Encapsulation et réutilisabilité du code ",
+      "isCorrect": true,
       "questionId": 3
     },
     {
       "id": 12,
-      "label": "Facilité de déploiement ",
-      "correct": false,
+      "answerLabel": "Facilité de déploiement ",
+      "isCorrect": false,
       "questionId": 3
     },
     {
       "id": 13,
-      "label": "Optimisation du SEO ",
-      "correct": false,
+      "answerLabel": "Optimisation du SEO ",
+      "isCorrect": false,
       "questionId": 3
     },
     {
       "id": 14,
-      "label": "Accélérer le temps de chargement de la page ",
-      "correct": false,
+      "answerLabel": "Accélérer le temps de chargement de la page ",
+      "isCorrect": false,
       "questionId" : 4
     },
     {
       "id": 15,
-      "label": "Encapsulation et réutilisabilité du code ",
-      "correct": true,
+      "answerLabel": "Encapsulation et réutilisabilité du code ",
+      "isCorrect": true,
       "questionId": 4
     },
     {
       "id": 16,
-      "label": "Facilité de déploiement ",
-      "correct": false,
+      "answerLabel": "Facilité de déploiement ",
+      "isCorrect": false,
       "questionId": 4
     },
     {
       "id": 17,
-      "label": "Optimisation du SEO ",
-      "correct": false,
+      "answerLabel": "Optimisation du SEO ",
+      "isCorrect": false,
       "questionId": 4
     },
     {
       "id": 18,
-      "label": "Accélérer le temps de chargement de la page ",
-      "correct": false,
+      "answerLabel": "Accélérer le temps de chargement de la page ",
+      "isCorrect": false,
       "questionId" : 5
     },
     {
       "id": 19,
-      "label": "Encapsulation et réutilisabilité du code ",
-      "correct": true,
+      "answerLabel": "Encapsulation et réutilisabilité du code ",
+      "isCorrect": true,
       "questionId": 5
     },
     {
       "id": 20,
-      "label": "Facilité de déploiement ",
-      "correct": false,
+      "answerLabel": "Facilité de déploiement ",
+      "isCorrect": false,
       "questionId": 5
     },
     {
       "id": 21,
-      "label": "Optimisation du SEO ",
-      "correct": false,
+      "answerLabel": "Optimisation du SEO ",
+      "isCorrect": false,
       "questionId": 5
     },
     {
       "id": 22,
-      "label": "Accélérer le temps de chargement de la page ",
-      "correct": false,
+      "answerLabel": "Accélérer le temps de chargement de la page ",
+      "isCorrect": false,
       "questionId" : 6
     },
     {
       "id": 23,
-      "label": "Encapsulation et réutilisabilité du code ",
-      "correct": true,
+      "answerLabel": "Encapsulation et réutilisabilité du code ",
+      "isCorrect": true,
       "questionId": 6
     },
     {
       "id": 24,
-      "label": "Facilité de déploiement ",
-      "correct": false,
+      "answerLabel": "Facilité de déploiement ",
+      "isCorrect": false,
       "questionId": 6
     },
     {
       "id": 25,
-      "label": "Optimisation du SEO ",
-      "correct": false,
+      "answerLabel": "Optimisation du SEO ",
+      "isCorrect": false,
       "questionId": 6
     },
     {
       "id": 26,
-      "label": "Accélérer le temps de chargement de la page ",
-      "correct": false,
+      "answerLabel": "Accélérer le temps de chargement de la page ",
+      "isCorrect": false,
       "questionId" : 7
     },
     {
       "id": 27,
-      "label": "Encapsulation et réutilisabilité du code ",
-      "correct": true,
+      "answerLabel": "Encapsulation et réutilisabilité du code ",
+      "isCorrect": true,
       "questionId": 8
     },
     {
       "id": 28,
-      "label": "Facilité de déploiement ",
-      "correct": false,
+      "answerLabel": "Facilité de déploiement ",
+      "isCorrect": false,
       "questionId": 8
     },
     {
       "id": 29,
-      "label": "Optimisation du SEO ",
-      "correct": false,
+      "answerLabel": "Optimisation du SEO ",
+      "isCorrect": false,
       "questionId": 8
     },
     {
       "id": 30,
-      "label": "Accélérer le temps de chargement de la page ",
-      "correct": false,
+      "answerLabel": "Accélérer le temps de chargement de la page ",
+      "isCorrect": false,
       "questionId" : 9
     },
     {
       "id": 31,
-      "label": "Encapsulation et réutilisabilité du code ",
-      "correct": true,
+      "answerLabel": "Encapsulation et réutilisabilité du code ",
+      "isCorrect": true,
       "questionId": 9
     },
     {
       "id": 32,
-      "label": "Facilité de déploiement ",
-      "correct": false,
+      "answerLabel": "Facilité de déploiement ",
+      "isCorrect": false,
       "questionId": 9
     },
     {
       "id": 33,
-      "label": "Optimisation du SEO ",
-      "correct": false,
+      "answerLabel": "Optimisation du SEO ",
+      "isCorrect": false,
       "questionId": 9
     },
     {
       "id": 34,
-      "label": "Accélérer le temps de chargement de la page ",
-      "correct": false,
+      "answerLabel": "Accélérer le temps de chargement de la page ",
+      "isCorrect": false,
       "questionId" : 10
     },
     {
       "id": 35,
-      "label": "Encapsulation et réutilisabilité du code ",
-      "correct": true,
+      "answerLabel": "Encapsulation et réutilisabilité du code ",
+      "isCorrect": true,
       "questionId": 10
     },
     {
       "id": 36,
-      "label": "Facilité de déploiement ",
-      "correct": false,
+      "answerLabel": "Facilité de déploiement ",
+      "isCorrect": false,
       "questionId": 10
     },
     {
       "id": 37,
-      "label": "Optimisation du SEO ",
-      "correct": false,
+      "answerLabel": "Optimisation du SEO ",
+      "isCorrect": false,
       "questionId": 10
     }
   ],
@@ -281,3 +281,4 @@
     }
   ]
 }
+
