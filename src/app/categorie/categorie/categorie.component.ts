@@ -14,8 +14,6 @@ export class CategorieComponent implements OnInit{
 
   categoryList: any[] = this.categoryService.categoryList;
 
-  filteredCategoryList: any[] = [];
-
   ngOnInit(): void {
     this.categoryService.getCategoryList();
   }

@@ -7,7 +7,7 @@ import { Component, Input } from '@angular/core';
 })
 export class CategoriesBoxComponent {
 
-  @Input() filteredCategoryList: any[] = [];
+  @Input() categoryList: any[] = [];
 
 
 }
