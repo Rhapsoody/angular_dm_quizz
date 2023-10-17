@@ -16,4 +16,9 @@ export class CategoryService {
       this.categoryList = categories;
     });
   }
+
+  changeCategory(changedCategories: any[]) {
+      this.categoryList = changedCategories;
+    };
 }
+

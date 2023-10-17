@@ -30,4 +30,8 @@ export class HomeComponent implements OnInit {
   confirmPseudo() {
     this.isPlayerNameConfirmed = true;
   }
+
+  navigateCategories() {
+    this.router.navigate(['/categories']);
+  }
 }

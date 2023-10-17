@@ -5,7 +5,7 @@
   <div class="categorie_container__search">
     <app-search-input></app-search-input>
   </div>
-  <div class="categorie_container__list">
-    <app-categories-box></app-categories-box>
+  <div class="categorie_container__list"  >
+    <app-categories-box [filteredCategoryList]="categoryList"></app-categories-box>
   </div>
 </section>
